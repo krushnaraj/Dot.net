@@ -1,0 +1,9 @@
+E:\ALL-PROGRAMS\ASP.NET\DBTable\bin\DBTable.dll
+E:\ALL-PROGRAMS\ASP.NET\DBTable\bin\DBTable.pdb
+E:\ALL-PROGRAMS\ASP.NET\DBTable\bin\DBTable.xml
+E:\ALL-PROGRAMS\ASP.NET\DBTable\obj\Debug\ResolveAssemblyReference.cache
+E:\ALL-PROGRAMS\ASP.NET\DBTable\obj\Debug\DBTable.Resources.resources
+E:\ALL-PROGRAMS\ASP.NET\DBTable\obj\Debug\DBTable.vbproj.GenerateResource.Cache
+E:\ALL-PROGRAMS\ASP.NET\DBTable\obj\Debug\DBTable.dll
+E:\ALL-PROGRAMS\ASP.NET\DBTable\obj\Debug\DBTable.xml
+E:\ALL-PROGRAMS\ASP.NET\DBTable\obj\Debug\DBTable.pdb

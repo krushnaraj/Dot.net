@@ -1,0 +1,9 @@
+E:\ALL-PROGRAMS\ASP.NET\MyCookieApp\bin\MyCookieApp.dll
+E:\ALL-PROGRAMS\ASP.NET\MyCookieApp\bin\MyCookieApp.pdb
+E:\ALL-PROGRAMS\ASP.NET\MyCookieApp\bin\MyCookieApp.xml
+E:\ALL-PROGRAMS\ASP.NET\MyCookieApp\obj\Debug\ResolveAssemblyReference.cache
+E:\ALL-PROGRAMS\ASP.NET\MyCookieApp\obj\Debug\MyCookieApp.Resources.resources
+E:\ALL-PROGRAMS\ASP.NET\MyCookieApp\obj\Debug\MyCookieApp.vbproj.GenerateResource.Cache
+E:\ALL-PROGRAMS\ASP.NET\MyCookieApp\obj\Debug\MyCookieApp.dll
+E:\ALL-PROGRAMS\ASP.NET\MyCookieApp\obj\Debug\MyCookieApp.xml
+E:\ALL-PROGRAMS\ASP.NET\MyCookieApp\obj\Debug\MyCookieApp.pdb

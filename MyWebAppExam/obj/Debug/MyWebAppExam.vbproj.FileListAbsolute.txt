@@ -1,0 +1,9 @@
+E:\ALL-PROGRAMS\ASP.NET\MyWebAppExam\bin\MyWebAppExam.dll
+E:\ALL-PROGRAMS\ASP.NET\MyWebAppExam\bin\MyWebAppExam.pdb
+E:\ALL-PROGRAMS\ASP.NET\MyWebAppExam\bin\MyWebAppExam.xml
+E:\ALL-PROGRAMS\ASP.NET\MyWebAppExam\obj\Debug\ResolveAssemblyReference.cache
+E:\ALL-PROGRAMS\ASP.NET\MyWebAppExam\obj\Debug\MyWebAppExam.Resources.resources
+E:\ALL-PROGRAMS\ASP.NET\MyWebAppExam\obj\Debug\MyWebAppExam.vbproj.GenerateResource.Cache
+E:\ALL-PROGRAMS\ASP.NET\MyWebAppExam\obj\Debug\MyWebAppExam.dll
+E:\ALL-PROGRAMS\ASP.NET\MyWebAppExam\obj\Debug\MyWebAppExam.xml
+E:\ALL-PROGRAMS\ASP.NET\MyWebAppExam\obj\Debug\MyWebAppExam.pdb
